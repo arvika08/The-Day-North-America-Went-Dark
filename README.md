@@ -218,7 +218,7 @@ Once generation units and substations were up:
 
 ---
 
-## ⏱️ Timeline of Restoration
+##  Timeline of Restoration
 
 | Time (Eastern)          | Event                                              |
 | ----------------------- | -------------------------------------------------- |
@@ -258,7 +258,7 @@ Perception isn't optional. It's power.
 
 ---
 
-## 📝 References
+## References
 
 1. U.S.-Canada Power System Outage Task Force Report (2004)
 2. IEEE Spectrum — Blackout Analysis
