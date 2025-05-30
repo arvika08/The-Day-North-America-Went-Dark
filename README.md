@@ -173,6 +173,9 @@ Most people think the blackout was just about electricity. But it was about **in
 
 ---
 
+
+
+
 ## Conclusion: Power Lies in Perception
 
 
