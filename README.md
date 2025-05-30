@@ -128,6 +128,8 @@ The 2003 blackout revealed a **gap**: While such resonance-based signals existed
 
 ### 1. **Line Impedance (Z₀):**
 
+The characteristic impedance 𝑍0 of a transmission line is the impedance that the line appears to have when it is infinitely long or properly terminated. It determines how voltage and current relate for traveling waves along the line.
+
 $$
 Z_0 = \sqrt{\frac{L}{C}}
 $$
@@ -139,6 +141,8 @@ Used in designing coaxial cables and transmission lines.
 ---
 
 ### 2. **Reflection Coefficient (Γ):**
+
+The reflection coefficient Γ is a fundamental parameter in transmission line theory and high-frequency signal analysis, used to quantify the mismatch between a transmission line and its load.
 
 $$
 \Gamma = \frac{Z_L - Z_0}{Z_L + Z_0}
@@ -152,6 +156,8 @@ Where $Z_L$ = load impedance, $Z_0$ = line impedance
 ---
 
 ### 3. **Standing Wave Ratio (SWR):**
+
+Standing Wave Ratio (SWR) is a measure of impedance matching in a transmission line. It tells how much of the signal is reflected due to mismatch at the load.
 
 $$
 \text{SWR} = \frac{1 + |\Gamma|}{1 - |\Gamma|}
@@ -172,24 +178,7 @@ Most people think the blackout was just about electricity. But it was about **in
 * **Electromagnetic theory** isn’t just for classrooms — it’s the backbone of power grids.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Conclusion: Power Lies in Perception
 
