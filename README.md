@@ -35,6 +35,9 @@ Let’s dive into the history, the roots, and the invisible science that connect
   * 265 power plants shut down
   * Cellular networks and water systems failed
 
+    ![image](https://github.com/user-attachments/assets/e3cc2015-9cb0-4c10-a42b-1f1d91c77447)
+
+
 ---
 
 ##  **Root Cause — Not a Boom, But a Blink**
@@ -62,6 +65,11 @@ SCADA systems are the nervous systems of power grids. They monitor voltages, cur
 * Master Terminal Units (MTUs)
 * RF modems using coaxial cables or waveguides
 * Antennas and signal amplifiers
+
+  ![image](https://github.com/user-attachments/assets/7d706c98-a8e9-4614-b75c-0f17edac2bed)
+  ![image](https://github.com/user-attachments/assets/577d853e-bdfa-4722-97ed-f32994b7b8e1)
+
+
 
 ###  Enter the S-Parameters
 
