@@ -171,7 +171,12 @@ Most people think the blackout was just about electricity. But it was about **in
 * Engineers must understand **signal integrity**, not just voltage levels.
 * **Electromagnetic theory** isn’t just for classrooms — it’s the backbone of power grids.
 
+
 ---
+
+
+
+
 
 
 
